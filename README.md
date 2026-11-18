@@ -11,7 +11,6 @@ Instead of using synthetic datasets, I pulled official monthly statistics from *
 * **The Warsaw specialization gap:** Warsaw has the largest IT workforce, yet pure software development (`PKD 62`) makes up only **62.6%** of its Section J employment—well below Pomorskie (72.9%) or Małopolskie (72.4%). That's because Warsaw concentrates telecoms, TV stations, and media headquarters alongside tech companies.
 * **Bigger hubs have more women in tech:** Female representation across Section J averages **30.4%** by region, but scales strongly with market size ($r = 0.72$)—peaking in Małopolskie (34.9%) and Mazowieckie (34.0%), while staying lowest in Lubuskie (26.8%).
 * **April 2025 dip across all major hubs:** Looking at month-by-month trends (`Jan 2025 = 100`), all top 5 IT regions saw a synchronized drop in headcount in April 2025 before bouncing back in the second half of the year.
-* **Men drove 100% of net growth in 2025:** Across Poland's Section J, total employment grew by **+6,347 people**, which came entirely from male employment (**+6,896; +1.89%**). Meanwhile, female headcount slightly declined (**-549; -0.31%**), with noticeable drops in Dolnośląskie (-0.84%) and Mazowieckie (-0.09%).
 
 ## Charts
 
@@ -27,7 +26,7 @@ Instead of using synthetic datasets, I pulled official monthly statistics from *
 ### 4. Month-by-Month Trajectory in Top 5 Hubs
 ![Monthly Trend](wykres_trend_it_2025.png)
 
-### 5. Who Drove the 2025 Growth? (Men vs. Women)
+### 5. Men and women in IT sector 2025
 ![Gender Dynamics](wykres_plec_dynamika_2025.png)
 
 ## How It Was Built
